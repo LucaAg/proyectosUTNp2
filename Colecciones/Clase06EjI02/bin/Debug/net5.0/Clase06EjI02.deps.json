@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase06EjI02/1.0.0": {
+        "runtime": {
+          "Clase06EjI02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase06EjI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

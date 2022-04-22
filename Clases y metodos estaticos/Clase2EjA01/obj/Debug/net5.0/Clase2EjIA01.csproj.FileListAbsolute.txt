@@ -1,0 +1,16 @@
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\bin\Debug\net5.0\Clase2EjIA01.exe
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\bin\Debug\net5.0\Clase2EjIA01.deps.json
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\bin\Debug\net5.0\Clase2EjIA01.runtimeconfig.json
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\bin\Debug\net5.0\Clase2EjIA01.runtimeconfig.dev.json
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\bin\Debug\net5.0\Clase2EjIA01.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\bin\Debug\net5.0\ref\Clase2EjIA01.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\bin\Debug\net5.0\Clase2EjIA01.pdb
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.csproj.AssemblyReference.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.AssemblyInfoInputs.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.AssemblyInfo.cs
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.csproj.CoreCompileInputs.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\ref\Clase2EjIA01.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.pdb
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\Clase2EjA01\obj\Debug\net5.0\Clase2EjIA01.genruntimeconfig.cache

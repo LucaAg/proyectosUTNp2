@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "BibliotecaWinFormI04/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BibliotecaWinFormI04.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaWinFormI04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaWinFormI04/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaWinFormI04/BibliotecaWinFormI04.csproj",
+      "msbuildProject": "../BibliotecaWinFormI04/BibliotecaWinFormI04.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "BibliotecaWinFormI04 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nahue\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Nahue\\source\\repos\\Visual_NetCore5\\Agnoli.Luca\\WindowsFormI04\\WindowsFormI04.csproj",
+      "projectName": "WindowsFormI04",
+      "projectPath": "C:\\Users\\Nahue\\source\\repos\\Visual_NetCore5\\Agnoli.Luca\\WindowsFormI04\\WindowsFormI04.csproj",
+      "packagesPath": "C:\\Users\\Nahue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nahue\\source\\repos\\Visual_NetCore5\\Agnoli.Luca\\WindowsFormI04\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nahue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Nahue\\source\\repos\\Visual_NetCore5\\Agnoli.Luca\\BibliotecaWinFormI04\\BibliotecaWinFormI04.csproj": {
+              "projectPath": "C:\\Users\\Nahue\\source\\repos\\Visual_NetCore5\\Agnoli.Luca\\BibliotecaWinFormI04\\BibliotecaWinFormI04.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

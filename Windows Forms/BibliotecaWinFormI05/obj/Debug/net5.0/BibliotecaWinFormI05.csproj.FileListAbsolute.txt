@@ -1,0 +1,12 @@
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\bin\Debug\net5.0\BibliotecaWinFormI05.deps.json
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\bin\Debug\net5.0\BibliotecaWinFormI05.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\bin\Debug\net5.0\ref\BibliotecaWinFormI05.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\bin\Debug\net5.0\BibliotecaWinFormI05.pdb
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\BibliotecaWinFormI05.csproj.AssemblyReference.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\BibliotecaWinFormI05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\BibliotecaWinFormI05.AssemblyInfoInputs.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\BibliotecaWinFormI05.AssemblyInfo.cs
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\BibliotecaWinFormI05.csproj.CoreCompileInputs.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\BibliotecaWinFormI05.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\ref\BibliotecaWinFormI05.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\BibliotecaWinFormI05\obj\Debug\net5.0\BibliotecaWinFormI05.pdb

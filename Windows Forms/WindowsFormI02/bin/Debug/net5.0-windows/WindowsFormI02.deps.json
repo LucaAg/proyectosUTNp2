@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WindowsFormI02/1.0.0": {
+        "dependencies": {
+          "BibliotecaWinFormI02": "1.0.0"
+        },
+        "runtime": {
+          "WindowsFormI02.dll": {}
+        }
+      },
+      "BibliotecaWinFormI02/1.0.0": {
+        "runtime": {
+          "BibliotecaWinFormI02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaWinFormI02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

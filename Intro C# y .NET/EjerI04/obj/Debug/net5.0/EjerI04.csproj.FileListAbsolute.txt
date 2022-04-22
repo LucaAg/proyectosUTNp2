@@ -1,0 +1,16 @@
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\bin\Debug\net5.0\EjerI04.exe
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\bin\Debug\net5.0\EjerI04.deps.json
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\bin\Debug\net5.0\EjerI04.runtimeconfig.json
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\bin\Debug\net5.0\EjerI04.runtimeconfig.dev.json
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\bin\Debug\net5.0\EjerI04.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\bin\Debug\net5.0\ref\EjerI04.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\bin\Debug\net5.0\EjerI04.pdb
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.csproj.AssemblyReference.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.AssemblyInfoInputs.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.AssemblyInfo.cs
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.csproj.CoreCompileInputs.cache
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\ref\EjerI04.dll
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.pdb
+C:\Users\Nahue\source\repos\Visual_NetCore5\Agnoli.Luca\EjerI04\obj\Debug\net5.0\EjerI04.genruntimeconfig.cache

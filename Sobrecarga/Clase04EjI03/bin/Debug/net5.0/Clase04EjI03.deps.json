@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase04EjI03/1.0.0": {
+        "dependencies": {
+          "BibliotecaClase04EjI03": "1.0.0"
+        },
+        "runtime": {
+          "Clase04EjI03.dll": {}
+        }
+      },
+      "BibliotecaClase04EjI03/1.0.0": {
+        "runtime": {
+          "BibliotecaClase04EjI03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase04EjI03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaClase04EjI03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
